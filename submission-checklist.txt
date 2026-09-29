@@ -1,0 +1,17 @@
+SUBMISSION CHECKLIST
+
+[ ] Jenkinsfile
+[ ] Dockerfile
+[ ] docker-compose.yml
+[ ] .env.example
+[ ] Frontend source files
+[ ] Nginx configuration
+[ ] README / CI-CD workflow explanation
+[ ] Trivy report
+[ ] Jenkins successful build screenshot
+[ ] Trivy scan screenshot
+[ ] Docker Compose healthy container screenshot
+[ ] Browser deployment screenshot
+[ ] Health-check output screenshot
+[ ] Persistent volume screenshot
+[ ] Image tags / rollback evidence

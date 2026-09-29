@@ -1,0 +1,4 @@
+.env
+trivy-report.txt
+screenshots/
+*.log

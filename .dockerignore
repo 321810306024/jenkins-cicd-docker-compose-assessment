@@ -1,0 +1,7 @@
+.git
+.gitignore
+Jenkinsfile
+README.md
+trivy-report.txt
+screenshots
+.env
